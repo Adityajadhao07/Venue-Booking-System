@@ -1,0 +1,5 @@
+[
+  { "name": "NC01", "capacity": 50, "type": "Classroom" },
+  { "name": "NC02", "capacity": 60, "type": "Classroom" },
+  { "name": "Main Auditorium", "capacity": 300, "type": "Auditorium" }
+]
